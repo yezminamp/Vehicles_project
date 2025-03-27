@@ -36,7 +36,7 @@ Copy
 Edit
 streamlit run app.py
 ## Resultado
-Puedes ver la aplicación en acción aquí: 🔗 [Aplicación en Render](http://192.168.1.66:8501/)
+Puedes ver la aplicación en acción aquí: 🔗 https://vehicles-project-1q7p.onrender.com
 
 ## Contacto
 Si tienes preguntas o sugerencias, no dudes en abrir un issue o contactarme.
